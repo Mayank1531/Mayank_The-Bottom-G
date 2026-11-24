@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Markdown Syntax Guide
 
 ## 1. Headings
@@ -122,3 +123,6 @@ python3 main.py
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+=======
+# My First Repository
+>>>>>>> Stashed changes
